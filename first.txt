@@ -4,5 +4,5 @@ git add file name
 git commit
 git commit -v
 git rm
-git status
+git status 現在の状況の確認
 git log
