@@ -5,4 +5,7 @@ git commit
 git commit -v
 git rm
 git status 現在の状況の確認
-git log
+git log →jでスクロールダウン、kでスクロールアップ、qで終了
+git log --oneline
+git log -n 3
+
