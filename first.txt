@@ -3,9 +3,11 @@ Gitの練習をしていきます。
 git add file name
 git commit
 git commit -v
+git push
 git rm
 git status 現在の状況の確認
 git log →jでスクロールダウン、kでスクロールアップ、qで終了
 git log --oneline
 git log -n 3
-
+git diff ステージとの差分
+git diff HEAD　ステージとコミットの差分
